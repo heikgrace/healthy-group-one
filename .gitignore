@@ -162,5 +162,6 @@ cython_debug/
 ./data
 
 heiko_analysis.ipynb
+nora_analysis2.ipynb
 
 .DS_Store
