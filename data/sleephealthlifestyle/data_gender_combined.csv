@@ -1,4 +1,4 @@
-Gender,Age_group,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure systolic,Blood Pressure diastolic,Heart Rate,Daily Steps,Sleep Disorder
+gender,age_group,age,occupation,sleep_duration,quality_of_sleep,physical_activity_level,stress_level,bmi_category,blood_pressure_systolic,blood_pressure_diastolic,heart_rate,daily_steps,sleep_disorder
 Female,Young Adult,29,Nurse,6.5,5,40,7,Normal Weight,132,87,80,4000,Sleep Apnea
 Female,Young Adult,29,Nurse,6.5,5,40,7,Normal Weight,132,87,80,4000,Insomnia
 Female,Young Adult,30,Nurse,6.4,5,35,7,Normal Weight,130,86,78,4100,Sleep Apnea

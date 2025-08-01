@@ -1,4 +1,4 @@
-Gender,Age_group,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure systolic,Blood Pressure diastolic,Heart Rate,Daily Steps,Sleep Disorder
+gender,age_group,age,occupation,sleep_duration,quality_of_sleep,physical_activity_level,stress_level,bmi_category,blood_pressure_systolic,blood_pressure_diastolic,heart_rate,daily_steps,sleep_disorder
 Male,Young Adult,27,Software Engineer,6.1,6,42,6,Overweight,126,83,77,4200,
 Male,Young Adult,28,Doctor,6.2,6,60,8,Normal Weight,125,80,75,10000,
 Male,Young Adult,28,Doctor,6.2,6,60,8,Normal Weight,125,80,75,10000,
